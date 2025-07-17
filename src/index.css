@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  /* Purple Original */
+  /* --color-text: #0c0918;
+  --color-background: #f3f0fa;
+  --color-primary: #6b48be;
+  --color-secondary: #d78fcf;
+  --color-accent: #ce76a9; */
+
+  /* Professional Blue & Teal - Conveys trust, reliability and efficiency */
+  --color-text: #1a2942;
+  --color-background: #f9fbfd;
+  --color-primary: #0061a7;
+  --color-secondary: #4aaed9;
+  --color-accent: #39b89a;
+
+  /* Modern Corporate Purple & Gold - Sophisticated and premium */
+--color-text: #2d2640;
+--color-background: #fafafe;
+--color-primary: #5a3092;
+--color-secondary: #9778d9;
+--color-accent: #e6b54c;
+
+/* Business Green & Blue - Professional with a touch of energy */
+--color-text: #1c3144;
+--color-background: #f7fafa;
+--color-primary: #0a6e5c;
+--color-secondary: #4db3a2;
+--color-accent: #3d7ec9;
+
+/* Teal & Cobalt - Fresh professional approach with confidence */
+--color-text: #1b324a;
+--color-background: #f6fbfc;
+--color-primary: #087275;
+--color-secondary: #4eb1b4;
+--color-accent: #2b68b1;
+
+  /* Fonts */
+  --font-sans: 'Inter', sans-serif;
+}
